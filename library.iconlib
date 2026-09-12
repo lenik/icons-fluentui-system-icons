@@ -1,4 +1,4 @@
-# Installed by icons-fluentui-system-icons — discovered as /usr/share/iconlibutils/library/fluentui-system-icons/
+# Installed by icons-fluentui-system-icons as /usr/share/iconlibutils/library/fluentui-system-icons
 name=fluentui-system-icons
 type=auto
 path=/usr/share/icons-fluentui-system-icons
@@ -7,3 +7,5 @@ license=MIT
 homepage=https://aka.ms/fluentui-system-icons
 description=Fluent UI System Icons
 package=icons-fluentui-system-icons
+icons_root=orig/assets
+faiss_index=/usr/share/icons-fluentui-system-icons

@@ -1,5 +1,7 @@
-fluentui-system-icons (1.0.0-1) unstable; urgency=medium
+icons-fluentui-system-icons (1.0.0) unstable; urgency=medium
 
-  * Initial packaging with iconlibutils launcher and preview index.
+  * Packaging as icons-fluentui-system-icons with iconlibutils launcher.
+  * Install prebuilt index/ web preview and FAISS faiss.* beside icons.
+  * library.iconlib: icons_root + faiss_index for natural-language search.
 
- -- Lenik <fluentui-system-icons@bodz.net>  Fri, 11 Sep 2026 19:07:43 +0800
+ -- Lenik (谢继雷) <lenik@bodz.net>  Sat, 12 Sep 2026 08:32:25 +0800
