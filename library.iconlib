@@ -8,4 +8,5 @@ homepage=https://aka.ms/fluentui-system-icons
 description=Fluent UI System Icons
 package=icons-fluentui-system-icons
 icons_root=orig/assets
-faiss_index=/usr/share/icons-fluentui-system-icons
+faiss_index=faiss.1,faiss.2,faiss.3,faiss.4,faiss.5,faiss.6,faiss.7,faiss.8,faiss.9
+faiss_shard_size=10M
